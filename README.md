@@ -17,3 +17,5 @@ I'm using this repo to keep track of supplemental content for my video lessons. 
 # Vimeo channels
 * https://vimeo.com/channels/introcompmedia
 * https://vimeo.com/channels/natureofcode
+
+This is a great thing
